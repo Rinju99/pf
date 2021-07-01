@@ -104,12 +104,13 @@ const educationInfo = {
       logo: require("./assets/images/mnsu-2.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "January 2017 - May 2021",
-      desc: "GPA: 3.7",
+      desc: "GPA: 3.7"
       //desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      //   descBullets: [
+      //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //   ]
+      // }
     }
   ]
 };
@@ -162,7 +163,7 @@ const workExperiences = {
       companylogo: require("./assets/images/jp.png"),
       date: "May 2020 – July 2020",
       descBullets: [
-        "Worked on a open source project on data visualization using python",
+        "Worked on an open source project on data visualization using python",
         "Collaborated with Tech Leads to complete the project on time"
       ]
     }
