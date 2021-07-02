@@ -12,7 +12,7 @@ const illustration = {
 
 const greeting = {
   username: "Rinju Sherpa",
-  title: "Hi there, I'm Rinju",
+  title: "Hi there! I'm Rinju",
   subTitle: emoji(
     `A passionate Full Stack Software Developer proficient with
      java/ JavaScript / Reactjs / Nodejs and some other cool libraries 
@@ -35,7 +35,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "My TechStack",
-  subTitle: "I enjoy learning learning new technology!",
+  subTitle:
+    "I like the fact that I get to learning new technology everyday. So far, I have worked with: ",
   skills: [],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
