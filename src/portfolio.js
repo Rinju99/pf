@@ -12,11 +12,10 @@ const illustration = {
 
 const greeting = {
   username: "Rinju Sherpa",
-  title: "Hi there! I'm Rinju",
+  title: "Hi, I'm Rinju",
   subTitle: emoji(
-    `A passionate Full Stack Software Developer proficient with
-     java/ JavaScript / Reactjs / Nodejs and some other cool libraries 
-     and frameworks. I enjoy learning new tools and technologies everyday`
+    `A passionate Full Stack Software Engineer proficient with
+     Java / .Net / JavaScript / Reactjs and some cool tools like git, Docker and postman. I get excited about learning new tools and technologies everyday!`
   ),
   displayGreeting: true // Set false to hide this section, defaults to true
 };
