@@ -100,9 +100,9 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Minnesota State University",
+      schoolName: "Minnesota State University, Mankato",
       logo: require("./assets/images/mnsu-2.png"),
-      subHeader: "Bachelor of Science in Computer Science",
+      subHeader: "Bachelor of Science, Computer Science",
       duration: "January 2017 - May 2021",
       desc: "GPA: 3.7"
       //desc: "Participated in the research of XXX and published 3 papers.",
